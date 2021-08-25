@@ -1,0 +1,2 @@
+rootProject.name = "HybridCalculator_Task1"
+include ':app'
